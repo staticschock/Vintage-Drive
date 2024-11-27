@@ -1,0 +1,182 @@
+@font-face {
+    font-family: OpenSans-Bold;
+    src: url(.//fonts//OpenSans-Bold.ttf);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    
+}
+
+#vt{
+    text-align: center;
+    color: #57c492;
+    border: 2px solid black;
+    border-radius: 7.5px;
+    width: 20vw;
+    margin: 0 auto;
+    font-family: OpenSans-Bold;
+    padding-bottom: 6px;
+    position: absolute;
+    margin-top: 2vh;
+    margin-left: 42.5vw;
+}
+#Menu{
+    border-right:solid #E2DDDD 4px;
+     height: 88vh;
+     width: 10vw;
+     margin-top: 12vh;
+     position: absolute;
+ }
+
+#LI {
+    border: none;
+    background: none;
+    height: 6vh;
+    position: absolute;
+    margin-left: -5vw;
+    margin-top: -1vh;
+}
+
+#Lp {
+    margin-left: 3vw;
+    font-size: 3.5vh;
+    font-weight: bold;
+}
+
+#LB {
+    border: solid 2px black;
+    width: 12vw;
+    background: none;
+    height: 7.5vh;
+    position: absolute;
+    margin-left: 84.5vw;
+    padding-right: -1vw;
+    border-radius: 15px;
+    margin-top: 1.25vh;
+}
+
+#carros{
+    position: absolute;
+
+    margin-top:12vh;
+    border-top: solid #E2DDDD 4px;
+    width: 100vw;
+    height: 84vh;
+   
+}
+#pag{
+    position: absolute;
+    margin-top: 5vh;
+    margin-left: 5vh;
+    font-family: OpenSans-Bold;
+    font-size: 2.1vh;
+}
+#car{
+    position: absolute;
+    margin-top: 12vh;
+    margin-left: 5vh;
+    font-family: OpenSans-Bold;
+    font-size: 2.1vh;
+}
+#not{
+    position: absolute;
+    margin-top: 18vh;
+    margin-left: 5vh;
+    font-family: OpenSans-Bold;
+    font-size: 2.1vh;
+}
+
+#borda_logo {
+    position: absolute;
+    width: 100vw;
+    height: 5vh;
+
+
+}
+#carro{
+    border: none;
+    background: none;
+    height: 7vh;
+    position: absolute;
+    margin-left: -1.5vw;
+    margin-top: 10vh;
+}
+#casa{
+    border: none;
+    background: none;
+    height: 7vh;
+    position: absolute;
+    margin-left: -1.5vw;
+    margin-top: 3vh;
+}
+#sino{
+    border: none;
+    background: none;
+    height: 7.5vh;
+    position: absolute;
+    margin-left: -1.7vw;
+    margin-top: 15.7vh;
+}
+#caravan{
+    border: none;
+    background: none;
+    height: 40vh;
+   
+    position: absolute;
+    margin-left: 13vw;
+   
+    margin-top: 15vh;
+}
+#titulo{
+    font-family: OpenSans-Bold;
+    position: absolute;
+    margin-top: 2vh;
+    margin-left: 42vw;
+
+}
+#nm1{
+    font-family: OpenSans-Bold;
+    position: absolute;
+    margin-left: 26vw;
+    margin-top: 55vh;
+    font-size: 20px;
+}
+
+
+#P1C{
+    font-family: OpenSans-Bold;
+    position: absolute;
+    margin-left: 42vw;
+    margin-top: 30vh;
+    font-size: 15px; 
+}
+#P2C{
+    font-family: OpenSans-Bold;
+    position: absolute;
+    margin-left: 42vw;
+    margin-top: 33vh;
+    font-size: 15px; 
+}
+#P3C{
+    font-family: OpenSans-Bold;
+    position: absolute;
+    margin-left: 42vw;
+    margin-top: 36vh;
+    font-size: 15px; 
+}
+
+#b3{
+    background-color: #e2dddd;
+    height: 7vh;
+    width: 10vw;
+    margin-left: 43vw;
+    margin-top: 22vw;
+    position: absolute;
+    text-align: center;
+    font-family: OpenSans-Bold;
+    border-radius: 7px;
+}

@@ -1,0 +1,119 @@
+@font-face {
+    font-family: OpenSans-Bold;
+    src: url(.//fonts//OpenSans-Bold.ttf);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#vt{
+    text-align: center;
+    color: #57c492;
+    border: 2px solid black;
+    border-radius: 7.5px;
+    width: 20vw;
+    margin: 0 auto;
+    font-family: OpenSans-Bold;
+    padding-bottom: 6px;
+    position: absolute;
+    margin-top: 2vh;
+    margin-left: 42.5vw;
+}
+#menu{
+   border-right:solid #E2DDDD 4px;
+    height: 85vh;
+    width: 10vw;
+    margin-top: 12vh;
+    position: absolute;
+}
+
+#LI {
+    border: none;
+    background: none;
+    height: 6vh;
+    position: absolute;
+    margin-left: -5vw;
+    margin-top: -1vh;
+}
+
+#LB {
+    border: solid 2px black;
+    width: 12vw;
+    background: none;
+    height: 7.5vh;
+    position: absolute;
+    margin-left: 86.5vw;
+    padding-right: -1vw;
+    border-radius: 15px;
+    margin-top: 1.25vh;
+}
+
+#Lp {
+    margin-left: 3vw;
+    font-size: 3.5vh;
+    font-weight: bold;
+}
+
+#carros{
+    position: absolute;
+
+    margin-top:12vh;
+    border-top: solid #E2DDDD 4px;
+    width: 100vw;
+    height: 87vh;
+}
+#pag{
+    position: absolute;
+    margin-top: 5vh;
+    margin-left: 5vh;
+    font-family: OpenSans-Bold;
+    font-size: 2.1vh;
+}
+#car{
+    position: absolute;
+    margin-top: 12vh;
+    margin-left: 5vh;
+    font-family: OpenSans-Bold;
+    font-size: 2.1vh;
+}
+#not{
+    position: absolute;
+    margin-top: 18vh;
+    margin-left: 5vh;
+    font-family: OpenSans-Bold;
+}
+
+#borda_logo {
+    position: absolute;
+    width: 100vw;
+    height: 7vh;
+
+
+}
+
+#carro{
+    border: none;
+    background: none;
+    height: 7vh;
+    position: absolute;
+    margin-left: -1.5vw;
+    margin-top: 10vh;
+}
+#casa{
+    border: none;
+    background: none;
+    height: 7vh;
+    position: absolute;
+    margin-left: -1.5vw;
+    margin-top: 3vh;
+}
+#sino{
+    border: none;
+    background: none;
+    height: 7.5vh;
+    position: absolute;
+    margin-left: -1.7vw;
+    margin-top: 15.7vh;
+}
